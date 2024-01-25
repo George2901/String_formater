@@ -1,4 +1,4 @@
-package sf
+package github.com/George2901/String_formater
 
 import (
 	"errors"
