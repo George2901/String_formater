@@ -1,3 +1,3 @@
-module github.com/George2901/String_formater
+module sf
 
 go 1.21.6

@@ -1,11 +1,11 @@
-### Install > ```go get https://github.com/George2901/String_format```
-### Import > ``` import sf "github.com/George2901/String_format" ```
+### Install > ```go get https://github.com/George2901/String_formater```
+### Import > ``` import sf "github.com/George2901/String_formater" ```
 
 ### Full exemple
 ```
 package main
 
-import sf "github.com/George2901/String_format"
+import sf "github.com/George2901/String_formater"
 
 func main() {
 	a := "first"
